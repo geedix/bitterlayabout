@@ -1,0 +1,14 @@
+body{
+    background-color:yellow;
+    color:blue;
+    font-family:'Segoe UI', 'Helvetica', sans-serif;
+    margin: 1em;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+p{
+    max-width:600px;
+    justify-content: left;
+}
